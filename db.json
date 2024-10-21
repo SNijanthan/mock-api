@@ -2,17 +2,45 @@
   "products": [
     {
       "id": 1,
-      "name": "Apple",
-      "description": "This is Apple Mobile",
+      "name": "Apple Iphone 16",
+      "description": "The iPhone 16 packs the powerful A18 Pro chip and features a dual-lens camera system for stunning photos. It also includes innovative enhancements like the customizable Action button and Dynamic Island for a premium user experience.",
       "price": 100,
       "image": "https://www.bigcmobiles.com/media/catalog/product/cache/e19e56cdd4cf1b4ec073d4305f5db95a/a/p/apple_iphone_16_black__1_1.jpg"
     },
     {
       "id": 2,
-      "name": "Samsung",
-      "description": "This is Samsung Mobile",
+      "name": "Samsung S24 Ultra",
+      "description": "The Samsung Galaxy S24 Ultra features a 6.8-inch Dynamic AMOLED display with a 120Hz refresh rate and a Snapdragon 8 Gen 3 processor. It also boasts a quad-camera setup and a 5000mAh battery for long-lasting performance.",
       "price": 150,
       "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-mob-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Desktop",
+      "description": "Desktop",
+      "price": 150,
+      "image": "A desktop computer is basically a personal computer designed to fit on or under a desk. It typically includes a monitor, a keyboard, a mouse, and a central processing unit (CPU) that houses the motherboard, memory, storage, and other components. Desktops can be more powerful and expandable than laptops, making them great for tasks like gaming, video editing, and software development."
+    },
+    {
+      "id": 4,
+      "name": "Milk",
+      "description": "Milk is a nutrient-rich liquid produced by mammals, essential for the growth and development of young ones. It's packed with calcium, proteins, and vitamins that promote strong bones and overall health.",
+      "price": 150,
+      "image": "https://sapinsdairy.com/wp-content/uploads/2021/12/milk-bottle.png"
+    },
+    {
+      "id": 5,
+      "name": "Carrot",
+      "description": "Carrots are crunchy, orange root vegetables packed with beta-carotene, fiber, and vitamins. They’re great for vision, skin, and overall health.",
+      "price": 150,
+      "image": "https://organicbazar.net/cdn/shop/products/Untitled-design-42.jpg?v=1694167753"
+    },
+    {
+      "id": 6,
+      "name": "Pen",
+      "description": "A pen is a writing instrument that uses ink to leave a mark on paper. It's an essential tool for everything from jotting down notes to creating detailed artwork.",
+      "price": 150,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/10/PX/KF/AW/20193325/ink-pen.jpg"
     }
   ]
 }
