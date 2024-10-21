@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "This is Apple Mobile",
+      "price": 100,
+      "image": "https://www.bigcmobiles.com/media/catalog/product/cache/e19e56cdd4cf1b4ec073d4305f5db95a/a/p/apple_iphone_16_black__1_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "description": "This is Samsung Mobile",
+      "price": 150,
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-mob-1.jpg"
+    }
+  ]
+}
