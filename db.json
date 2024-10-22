@@ -16,10 +16,10 @@
     },
     {
       "id": 3,
-      "name": "Desktop",
-      "description": "Desktop",
+      "name": "HP Laptop",
+      "description": "HP laptops are known for their quality, durability, and versatility. Whether you're into gaming, need something robust for work, or just want a reliable machine for everyday use, HP's got a range of options. They usually offer strong performance, a sleek design, and solid battery life.",
       "price": 150,
-      "image": "A desktop computer is basically a personal computer designed to fit on or under a desk. It typically includes a monitor, a keyboard, a mouse, and a central processing unit (CPU) that houses the motherboard, memory, storage, and other components. Desktops can be more powerful and expandable than laptops, making them great for tasks like gaming, video editing, and software development."
+      "image": "https://imgs.search.brave.com/tyZZIIWhQjgO6x1tM9jtGeokLbqeLOoQmBF7dZ-BfXk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvODIw/MDc5MzM4L3Bob3Rv/L2FuLWhwLXNwZWN0/cmUtZ2FtaW5nLWxh/cHRvcC10YWtlbi1v/bi1ub3ZlbWJlci0x/Ny0yMDE2LmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1hbG1M/Q1pmdEdxMzdqbkZ0/UHlRaXhtdVA4alk4/Z3hZTHR0WDU5aDhV/V2lzPQ"
     },
     {
       "id": 4,
