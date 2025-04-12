@@ -42,47 +42,6 @@
     },
     {
       "id": 6,
-      "title": "Women's Floral Dress",
-      "price": 2199,
-      "description": "Elegant knee-length dress with floral prints and a breezy fit.",
-      "category": "clothes",
-      "image": "https://images.unsplash.com/photo-1589136371962-abcdf83feb57?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V29tZW4ncyUyMEZsb3JhbCUyMERyZXNzfGVufDB8MHwwfHx8Mg%3D%3D"
-    },
-    {
-      "id": 7,
-      "title": "Denim Jacket",
-      "price": 2499,
-      "description": "Classic mid-wash denim jacket with side pockets and metal buttons.",
-      "category": "clothes",
-      "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGVuaW0lMjBKYWNrZXR8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 8,
-      "title": "Men's Cargo Pants",
-      "price": 1599,
-      "description": "Utility-inspired cargo pants with multiple pockets and a relaxed fit.",
-      "category": "clothes",
-      "image": "https://images.unsplash.com/photo-1602585198422-d795fa9bfd6f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWVuJ3MlMjBDYXJnbyUyMFBhbnRzfGVufDB8MHwwfHx8Mg%3D%3D"
-    },
-    {
-      "id": 9,
-      "title": "Oversized Sweatshirt",
-      "price": 1299,
-      "description": "Cozy and oversized sweatshirt for a modern, laid-back look.",
-      "category": "clothes",
-      "image": "https://images.unsplash.com/photo-1609344249728-825d1adbca2d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fE92ZXJzaXplZCUyMFN3ZWF0c2hpcnR8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 10,
-      "title": "Slim Fit Chinos",
-      "price": 1399,
-      "description": "Smart-casual chinos with a slim silhouette, perfect for every occasion.",
-      "category": "clothes",
-      "image": "https://media.gq.com/photos/667dc6517707da30dab77ca8/master/w_2560%2Cc_limit/Lede-GQR-Chinos-0767-3-v2.jpg"
-    },
-
-    {
-      "id": 11,
       "title": "Wireless Bluetooth Earbuds",
       "price": 3499,
       "description": "Noise-isolating earbuds with touch controls and a compact charging case.",
@@ -90,7 +49,7 @@
       "image": "https://images.unsplash.com/photo-1627989580309-bfaf3e58af6f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2lyZWxlc3MlMjBCbHVldG9vdGglMjBFYXJidWRzfGVufDB8MHwwfHx8Mg%3D%3D"
     },
     {
-      "id": 12,
+      "id": 7,
       "title": "Smart LED TV 42 inch",
       "price": 24999,
       "description": "Full HD smart TV with built-in apps, voice control, and dynamic contrast.",
@@ -98,7 +57,7 @@
       "image": "https://images.unsplash.com/photo-1615210230840-69c07c13b4d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U21hcnQlMjBMRUQlMjBUViUyMDQyJTIwaW5jaHxlbnwwfDB8MHx8fDI%3D"
     },
     {
-      "id": 13,
+      "id": 8,
       "title": "Portable Bluetooth Speaker",
       "price": 2299,
       "description": "Compact speaker with deep bass and long battery life, ideal for travel.",
@@ -106,7 +65,7 @@
       "image": "https://images.unsplash.com/photo-1643901102317-b430b45e4cce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UG9ydGFibGUlMjBCbHVldG9vdGglMjBTcGVha2VyfGVufDB8MHwwfHx8Mg%3D%3D"
     },
     {
-      "id": 14,
+      "id": 9,
       "title": "Wireless Mouse",
       "price": 799,
       "description": "Ergonomic wireless mouse with silent clicks and adjustable DPI settings.",
@@ -114,7 +73,7 @@
       "image": "https://images.unsplash.com/photo-1563549054059-bf4ebe2f49d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFdpcmVsZXNzJTIwTW91c2V8ZW58MHwwfDB8fHwy"
     },
     {
-      "id": 15,
+      "id": 10,
       "title": "Mechanical Keyboard",
       "price": 3499,
       "description": "RGB-backlit mechanical keyboard designed for gaming and productivity.",
@@ -122,48 +81,7 @@
       "image": "https://images.unsplash.com/photo-1602025882379-e01cf08baa51?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWVjaGFuaWNhbCUyMEtleWJvYXJkfGVufDB8MHwwfHx8Mg%3D%3D"
     },
     {
-      "id": 16,
-      "title": "Noise Cancelling Headphones",
-      "price": 5999,
-      "description": "Over-ear headphones with active noise cancellation and superior audio quality.",
-      "category": "electronics",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Tm9pc2UlMjBDYW5jZWxsaW5nJTIwSGVhZHBob25lc3xlbnwwfDB8MHx8fDI%3D"
-    },
-    {
-      "id": 17,
-      "title": "Smart Fitness Band",
-      "price": 1999,
-      "description": "Track steps, heart rate, and sleep with this sleek and smart fitness tracker.",
-      "category": "electronics",
-      "image": "https://images.unsplash.com/photo-1629339837617-7069ce9e7f6b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBGaXRuZXNzJTIwdHJhY2tlcnxlbnwwfDB8MHx8fDI%3D"
-    },
-    {
-      "id": 18,
-      "title": "Webcam with Microphone",
-      "price": 1899,
-      "description": "HD webcam with built-in mic, plug-and-play setup for video calls.",
-      "category": "electronics",
-      "image": "https://images.unsplash.com/photo-1622750342107-4b60e2704157?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8V2ViY2FtJTIwd2l0aCUyME1pY3JvcGhvbmV8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 19,
-      "title": "Power Bank 10000mAh",
-      "price": 999,
-      "description": "Fast-charging power bank with dual USB output for multiple devices.",
-      "category": "electronics",
-      "image": "https://images.unsplash.com/photo-1594843665794-446ce915d840?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UG93ZXIlMjBCYW5rfGVufDB8MHwwfHx8Mg%3D%3D"
-    },
-    {
-      "id": 20,
-      "title": "Mini Projector",
-      "price": 5999,
-      "description": "Compact portable projector perfect for movie nights and presentations.",
-      "category": "electronics",
-      "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWluaSUyMFByb2plY3RvcnxlbnwwfDB8MHx8fDI%3D"
-    },
-
-    {
-      "id": 21,
+      "id": 11,
       "title": "Modern Wooden Coffee Table",
       "price": 5999,
       "description": "Minimalist wooden coffee table with a smooth finish and sturdy base.",
@@ -171,7 +89,7 @@
       "image": "https://images.unsplash.com/photo-1524084848619-1161d3c8501a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9kZXJuJTIwV29vZGVuJTIwQ29mZmVlJTIwVGFibGV8ZW58MHwwfDB8fHwy"
     },
     {
-      "id": 22,
+      "id": 12,
       "title": "Ergonomic Office Chair",
       "price": 7499,
       "description": "Adjustable chair with lumbar support and mesh back for all-day comfort.",
@@ -179,7 +97,7 @@
       "image": "https://images.unsplash.com/photo-1603376575925-467d14313a60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEVyZ29ub21pYyUyME9mZmljZSUyMENoYWlyfGVufDB8MHwwfHx8Mg%3D%3D"
     },
     {
-      "id": 23,
+      "id": 13,
       "title": "Queen Size Bed Frame",
       "price": 11499,
       "description": "Durable wooden bed frame with a clean modern design and ample support.",
@@ -187,7 +105,7 @@
       "image": "https://images.unsplash.com/photo-1719749937521-1aaa41d8e518?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fFF1ZWVuJTIwU2l6ZSUyMEJlZCUyMEZyYW1lfGVufDB8MHwwfHx8Mg%3D%3D"
     },
     {
-      "id": 24,
+      "id": 14,
       "title": "Compact Bookshelf",
       "price": 2799,
       "description": "Space-saving bookshelf with 4 tiers and modern wood finish.",
@@ -195,7 +113,7 @@
       "image": "https://images.unsplash.com/photo-1626096338675-d4b5d8331a46?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Q29tcGFjdCUyMEJvb2tzaGVsZnxlbnwwfDB8MHx8fDI%3D"
     },
     {
-      "id": 25,
+      "id": 15,
       "title": "Dining Table Set",
       "price": 9999,
       "description": "4-seater dining table set with cushioned chairs and walnut finish.",
@@ -203,47 +121,7 @@
       "image": "https://images.unsplash.com/photo-1577639179896-9c854d81c609?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RGluaW5nJTIwVGFibGUlMjBTZXR8ZW58MHwwfDB8fHwy"
     },
     {
-      "id": 26,
-      "title": "Shoe Rack with Seat",
-      "price": 2499,
-      "description": "Multipurpose shoe rack with padded seat and ample storage.",
-      "category": "furniture",
-      "image": "https://images.unsplash.com/photo-1652631631797-af8035ed38fd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFNob2UlMjBSYWNrfGVufDB8MHwwfHx8Mg%3D%3D"
-    },
-    {
-      "id": 27,
-      "title": "Foldable Study Table",
-      "price": 1999,
-      "description": "Compact foldable table ideal for studying or remote work setup.",
-      "category": "furniture",
-      "image": "https://images.unsplash.com/photo-1625874274375-71db2bf2f50c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fEZvbGRhYmxlJTIwU3R1ZHklMjBUYWJsZXxlbnwwfDB8MHx8fDI%3D"
-    },
-    {
-      "id": 28,
-      "title": "Wall-mounted TV Unit",
-      "price": 4599,
-      "description": "Floating wall unit with shelves to organize media accessories stylishly.",
-      "category": "furniture",
-      "image": "https://images.unsplash.com/photo-1633604712918-6ab1173d0ecd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFdhbGwlMjBtb3VudGVkJTIwYmlnJTIwVFZ8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 29,
-      "title": "Kids Study Chair",
-      "price": 1799,
-      "description": "Colorful ergonomic chair for kids with adjustable height and backrest.",
-      "category": "furniture",
-      "image": "https://images.unsplash.com/photo-1693191540919-2ddde89a2f89?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8S2lkcyUyMFN0dWR5JTIwQ2hhaXJ8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 30,
-      "title": "Two-Door Wardrobe",
-      "price": 7999,
-      "description": "Spacious wardrobe with shelves and hanging space for efficient storage.",
-      "category": "furniture",
-      "image": "https://images.unsplash.com/photo-1672137233327-37b0c1049e77?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V2FyZHJvYmV8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 31,
+      "id": 16,
       "title": "Running Shoes - Men's",
       "price": 2999,
       "description": "Lightweight and breathable running shoes designed for comfort and durability.",
@@ -251,7 +129,7 @@
       "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UnVubmluZyUyMFNob2VzfGVufDB8MHwwfHx8Mg%3D%3D"
     },
     {
-      "id": 32,
+      "id": 17,
       "title": "Sneakers - Women's",
       "price": 2499,
       "description": "Trendy sneakers that offer both style and comfort for daily wear.",
@@ -259,7 +137,7 @@
       "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U25lYWtlcnN8ZW58MHwwfDB8fHwy"
     },
     {
-      "id": 33,
+      "id": 18,
       "title": "Leather Boots - Men's",
       "price": 4499,
       "description": "Premium leather boots perfect for both formal and casual occasions.",
@@ -267,7 +145,7 @@
       "image": "https://images.unsplash.com/photo-1605733160314-4fc7dac4bb16?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVhdGhlciUyMEJvb3RzJTIwJTIwJTIwTWVuJ3N8ZW58MHwwfDB8fHwy"
     },
     {
-      "id": 34,
+      "id": 19,
       "title": "Flats - Women's",
       "price": 1299,
       "description": "Elegant and comfortable flats with cushioned insole for all-day wear.",
@@ -275,52 +153,12 @@
       "image": "https://images.unsplash.com/photo-1627388484741-74dcc56ec343?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEZsYXQlMjBzYW5kbGVzJTIwd29tZW58ZW58MHwwfDB8fHwy"
     },
     {
-      "id": 35,
+      "id": 20,
       "title": "Sports Shoes - Men's",
       "price": 3299,
       "description": "High-performance sports shoes with added grip and stability for athletes.",
       "category": "shoes",
       "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BvcnRzJTIwU2hvZXN8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 36,
-      "title": "Slip-on Sneakers - Women's",
-      "price": 1899,
-      "description": "Easy-to-wear slip-on sneakers with a casual yet chic design.",
-      "category": "shoes",
-      "image": "https://images.unsplash.com/photo-1572846922472-f11ac2cd9d07?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFNsaXAlMjBvbiUyMFNuZWFrZXJzfGVufDB8MHwwfHx8Mg%3D%3D"
-    },
-    {
-      "id": 37,
-      "title": "Chukka Boots - Men's",
-      "price": 3999,
-      "description": "Classic chukka boots crafted from durable leather, perfect for casual outings.",
-      "category": "shoes",
-      "image": "https://images.unsplash.com/photo-1581803361830-809a2d6d3815?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q2h1a2thJTIwQm9vdHN8ZW58MHwwfDB8fHwy"
-    },
-    {
-      "id": 38,
-      "title": "Pumps - Women's",
-      "price": 2799,
-      "description": "Sleek and stylish high heels, ideal for formal events and special occasions.",
-      "category": "shoes",
-      "image": "https://images.unsplash.com/photo-1651368213361-a9d832e60a21?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UHVtcHMlMjAlMjAlMjBXb21lbidzfGVufDB8MHwwfHx8Mg%3D%3D"
-    },
-    {
-      "id": 39,
-      "title": "Boots - Women's",
-      "price": 3599,
-      "description": "Chic knee-high boots that combine elegance with comfort, perfect for colder weather.",
-      "category": "shoes",
-      "image": "https://images.unsplash.com/photo-1717518595985-21713fcf8bde?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Qm9vdHMlMjAlMjAlMjBXb21lbidzfGVufDB8MHwwfHx8Mg%3D%3D"
-    },
-    {
-      "id": 40,
-      "title": "Casual Shoes - Men's",
-      "price": 2199,
-      "description": "Casual loafers that offer comfort and a laid-back style for everyday wear.",
-      "category": "shoes",
-      "image": "https://images.unsplash.com/photo-1695073621086-aa692bc32a3d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fENhc3VhbCUyMFNob2VzfGVufDB8MHwwfHx8Mg%3D%3D"
     }
   ]
 }
